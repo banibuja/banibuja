@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shaban Buja</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [Restaurant-point App](http://ubt-uni.net/)
+- 🔭 I’m currently working on [Restaurant-point App]
 
 - 🌱 I’m currently learning **Java, React, Redux, SpringBoot**
 
-- I'm currently a full-time student working part-time at **UBT Collage**
+- I'm currently a full-time student working part-time at **UBT Collage** (http://ubt-uni.net/)
 
 - 📫 How to reach me **shaban.buja111@gmail.com**
 
