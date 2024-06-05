@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Restaurant-point App**
 
-- 🌱 I’m currently learning **Java, React, Redux, SpringBoot**
+- 🌱 I’m currently learning ** ReactJS, PHP, NodeJS, HTML, CSS, JavaScript, Java**
 
 - I'm currently a full-time student working part-time at [UBT Collage](http://ubt-uni.net/)
 
