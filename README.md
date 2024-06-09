@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaban Buja</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on **Restaurant-point App**
 
 - 🌱 I’m currently learning ** ReactJS, PHP, NodeJS, HTML, CSS, JavaScript, Java**
 
