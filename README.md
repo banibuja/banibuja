@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ** ReactJS, PHP, NodeJS, HTML, CSS, JavaScript, Java**
 
-- I'm currently a full-time student working part-time at [UBT Collage](http://ubt-uni.net/)
+- I'm currently a student at [UBT Collage](http://ubt-uni.net/)
 
 - 📫 How to reach me **shaban.buja111@gmail.com**
 
