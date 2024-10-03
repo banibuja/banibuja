@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 
-- 🌱 I’m currently learning ** ReactJS, PHP, NodeJS, HTML, CSS, JavaScript, Java**
+- 🌱 I’m currently learning ** NextJS, ReactJS, PHP, NodeJS, HTML, CSS, JavaScript, Java**
 
 - I'm currently a student at [UBT Collage](http://ubt-uni.net/)
 
