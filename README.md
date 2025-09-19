@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 
-- 🌱 I’m currently learning ** NextJS, ReactJS, TailWindCss PHP, NodeJS, HTML, CSS, JavaScript, Java**
+- 🌱 I’m currently learning ** Laravel, Livewire, NextJS, ReactJS, TailWindCss PHP, NodeJS, HTML, CSS, JavaScript, Java**
 
 - I'm currently a student at [UBT Collage](http://ubt-uni.net/)
 
