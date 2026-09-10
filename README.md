@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaban Buja</h1>
-<h3 align="center">A passionate software developer</h3>
+=<h3 align="center">A passionate software developer</h3>
 
 
 - 🌱 I’m currently learning ** Laravel, Livewire, NextJS, ReactJS, TailWindCss PHP, NodeJS, HTML, CSS, JavaScript, Java**
