@@ -7,6 +7,10 @@
 
 - 📫 How to reach me **shaban.buja111@gmail.com**
 
+- ## 💼 Work GitHub
+
+- 🏢 Work Account: https://github.com/tnt-banbuja
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/banibuja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="banibuja" height="30" width="40" /></a>
